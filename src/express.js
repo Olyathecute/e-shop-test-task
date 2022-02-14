@@ -67,7 +67,6 @@ async function run() {
   app.get('/api/games', async (req, res) => {
     const { ages, types, name } = req.query
     const filter = {}
-    console.log(req.query)
 
     if (ages?.length) filter.age = { $in: ages }
     if (types?.length) filter.type = { $in: types }

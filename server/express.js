@@ -30,7 +30,7 @@ app.use(/^(?!.*api).*$/, async (req, res) => {
     encoding: 'utf8'
   })
   const initialState = await fetchData()
-  console.log(initialState)
+
   let appHTML = ReactDOMServer.renderToString(
     <StaticRouter location={req.originalUrl}>
       <CacheProvider value={cache}>

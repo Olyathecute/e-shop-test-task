@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Box, Toolbar, FormControl, TextField, Typography, OutlinedInput, InputLabel, MenuItem, Select } from '@mui/material'
+import { Box, Toolbar, FormControl, Typography, OutlinedInput, InputLabel, MenuItem, Select } from '@mui/material'
 import { useTheme } from '@mui/material/styles'
 import { AGES, TYPES } from '../../constants'
 import { CssTextField, ColorButton, MenuProps, getStyles, useStyles } from './MainStyles'

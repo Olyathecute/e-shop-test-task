@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container, Box, Typography, Grid } from '@mui/material'
+import { Box, Typography, Grid } from '@mui/material'
 import GameList from './GameList'
 import Commercial from './Commercial'
 import SearchElement from './SearchElement'
