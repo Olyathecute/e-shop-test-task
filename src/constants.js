@@ -1,0 +1,30 @@
+export const AGES = ['0+', '4+', '12+', '16+']
+export const TYPES = ['Quiz', 'Quest', 'Labyrinth', 'Strategy', 'Economic']
+export const MEDIA = [
+  'https://www.belykrolik.ru/media/images/nastolnye-igry-2-4-let.width-800.jpg',
+  'https://www.belykrolik.ru/media/images/nastolnye-igry-2-4-let.width-800.jpg',
+  'https://ethnomir.ru/upload/medialibrary/b33/games.jpg',
+  'https://ethnomir.ru/upload/medialibrary/b33/games.jpg',
+  'https://cdn2.static1-sima-land.com/content/53882.jpg',
+  'https://cdn2.static1-sima-land.com/content/53882.jpg',
+  'https://mozhaiskiy-gazeta.ru/files/data/user/AiF/natalya/files/2020/2020.04.03-1585931334.0508_board-game-529586-640.jpg',
+  'https://mozhaiskiy-gazeta.ru/files/data/user/AiF/natalya/files/2020/2020.04.03-1585931334.0508_board-game-529586-640.jpg',
+  'https://i.playground.ru/p/vrI1Tgsk_NSAP706Bo1Rnw.jpeg',
+  'https://i.playground.ru/p/vrI1Tgsk_NSAP706Bo1Rnw.jpeg',
+  'https://cdn2.static1-sima-land.com/content/53882.jpg',
+  'https://cdn2.static1-sima-land.com/content/53882.jpg',
+  'https://www.mirf.ru/wp-content/uploads/2020/04/catan-4494043_1920.jpg',
+  'https://www.mirf.ru/wp-content/uploads/2020/04/catan-4494043_1920.jpg',
+  'https://pp.vk.me/c411022/v411022166/613b/Jx3XYcLN3eo.jpg',
+  'https://pp.vk.me/c411022/v411022166/613b/Jx3XYcLN3eo.jpg',
+  'https://novate.ru/files/u32501/board-games-2.jpg',
+  'https://novate.ru/files/u32501/board-games-2.jpg',
+  'https://regnum.ru/uploads/pictures/news/2018/12/28/regnum_picture_1546022285367578_normal.jpg',
+  'https://regnum.ru/uploads/pictures/news/2018/12/28/regnum_picture_1546022285367578_normal.jpg',
+  'https://n1s1.hsmedia.ru/1b/5c/43/1b5c43f8c5ac4b19e3874e8bd6c575af/1000x785_0xac120003_6930996781615826111.jpg',
+  'https://n1s1.hsmedia.ru/1b/5c/43/1b5c43f8c5ac4b19e3874e8bd6c575af/1000x785_0xac120003_6930996781615826111.jpg',
+  'https://c.dns-shop.ru/thumb/st4/fit/760/600/64fc35bec1cc5995c65259cb13535b4f/q93_2cd35b7c94566c1992bb080ffb9a8d91323928910866773e90b2e855254ddc29.jpg',
+  'https://c.dns-shop.ru/thumb/st4/fit/760/600/64fc35bec1cc5995c65259cb13535b4f/q93_2cd35b7c94566c1992bb080ffb9a8d91323928910866773e90b2e855254ddc29.jpg',
+  'https://anons.uz/media/news/medium/Renesans-gier-planszowych_watermarked.jpeg',
+  'https://anons.uz/media/news/medium/Renesans-gier-planszowych_watermarked.jpeg'
+]
