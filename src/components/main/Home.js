@@ -12,7 +12,7 @@ function Home({ games = [], applyFilter, deleteGame }) {
       <Box
         sx={{
           m: 2,
-          height: '65vh',
+          minHight: '65vh',
           textAlign: 'center'
         }}
       >

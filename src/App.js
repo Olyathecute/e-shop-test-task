@@ -28,7 +28,7 @@ function App({ initialState = [] }) {
     requestAndSetGames()
   }
 
-  useEffect(requestAndSetGames, [setGames, filter])
+  useEffect(requestAndSetGames, [filter])
   return (
     <>
       <Header />
